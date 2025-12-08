@@ -1,2 +1,4 @@
-# CSD-380
-CSD-380 DevOps
+# CSD 380 DevOps
+## Contributors
+- Instructor: Dr. Farley
+- Natasha Foreman
